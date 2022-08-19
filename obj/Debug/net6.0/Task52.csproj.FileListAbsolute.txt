@@ -1,0 +1,15 @@
+C:\Users\vspl3\Desktop\GeekBrains\Repo\Task52\bin\Debug\net6.0\Task52.exe
+C:\Users\vspl3\Desktop\GeekBrains\Repo\Task52\bin\Debug\net6.0\Task52.deps.json
+C:\Users\vspl3\Desktop\GeekBrains\Repo\Task52\bin\Debug\net6.0\Task52.runtimeconfig.json
+C:\Users\vspl3\Desktop\GeekBrains\Repo\Task52\bin\Debug\net6.0\Task52.dll
+C:\Users\vspl3\Desktop\GeekBrains\Repo\Task52\bin\Debug\net6.0\Task52.pdb
+C:\Users\vspl3\Desktop\GeekBrains\Repo\Task52\obj\Debug\net6.0\Task52.csproj.AssemblyReference.cache
+C:\Users\vspl3\Desktop\GeekBrains\Repo\Task52\obj\Debug\net6.0\Task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vspl3\Desktop\GeekBrains\Repo\Task52\obj\Debug\net6.0\Task52.AssemblyInfoInputs.cache
+C:\Users\vspl3\Desktop\GeekBrains\Repo\Task52\obj\Debug\net6.0\Task52.AssemblyInfo.cs
+C:\Users\vspl3\Desktop\GeekBrains\Repo\Task52\obj\Debug\net6.0\Task52.csproj.CoreCompileInputs.cache
+C:\Users\vspl3\Desktop\GeekBrains\Repo\Task52\obj\Debug\net6.0\Task52.dll
+C:\Users\vspl3\Desktop\GeekBrains\Repo\Task52\obj\Debug\net6.0\refint\Task52.dll
+C:\Users\vspl3\Desktop\GeekBrains\Repo\Task52\obj\Debug\net6.0\Task52.pdb
+C:\Users\vspl3\Desktop\GeekBrains\Repo\Task52\obj\Debug\net6.0\Task52.genruntimeconfig.cache
+C:\Users\vspl3\Desktop\GeekBrains\Repo\Task52\obj\Debug\net6.0\ref\Task52.dll
